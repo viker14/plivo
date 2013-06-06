@@ -1,0 +1,72 @@
+.clear{clear: both;}
+.center {margin: 0 auto;text-align: center;}
+body{font-family: 'Asap', sans-serif;}
+.top-gap{margin-top: 0px;}
+.main-cont{background: url(../../img/body_bg.png) repeat scroll 0 0 transparent !important;
+    min-height: 600px;
+    padding-bottom: 30px;}
+.site-logo a{margin-left: 85px; line-height: 60px;}
+.navbar-inner{height: 60px;}
+.h-nav{float: right; margin: 0;}
+.h-nav li{float: left; display: inline-block; margin: 0 10px;line-height: 55px;}
+.top_menu{float: left;}
+.h-nav li a{text-decoration: none; font-size: 14px; color: #4d4d4d;}
+.h-nav li a:hover{color: #639000;}
+.h-contact{border-left: 1px solid #C6C6C6;border-right: 1px solid #C6C6C6;font-size: 12px;margin: 17px 25px 0 !important;padding: 0 25px;}
+.h-contact p{line-height: 10px; margin: 5px 0;}
+.h-contact .telephone{background: url(../../img/call_icon.png) no-repeat scroll 0 0 transparent;height: 12px;padding-left: 20px;}
+.h-contact .mail{background: url(../../img/mail_icon.png) no-repeat scroll 0 0 transparent;height: 12px;padding-left: 20px;}
+.h-nav .login{margin-top: 18px;}
+
+.features{background: url(../../img/home-bg.jpg) repeat scroll 0 0 transparent;}
+h2.f-title{color: #fff; font-size: 34px; text-align: center;text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5); margin: 50px 0 0; font-weight: 700;}
+h4.f-sub-title{ font-size: 17px;text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5); color: #1E3900; text-align: center; margin: 0 0 30px;}
+
+.featured-blk{border: 3px solid #FFFFFF;border-radius: 400px 400px 400px 400px;height: 100px;margin: 0 auto;position: relative;width: 100px;}
+.v-calls{background: url(../../img/phone_1.png)no-repeat scroll center center #B2DA52;}
+.v-calls:hover{background: url(../../img/phone_1_h.png)no-repeat scroll center center #639a00;}    
+.sms{background: url(../../img/chat_1.png)no-repeat scroll center center #B2DA52;}
+.sms:hover{background: url(../../img/chat_1_h.png)no-repeat scroll center center #639a00;}
+.sip{background: url(../../img/sip_1.png)no-repeat scroll center center #B2DA52;}
+.sip:hover{background: url(../../img/sip_1_h.png)no-repeat scroll center center #639a00;}
+.sdk{background: url(../../img/flow_1.png)no-repeat scroll center center #B2DA52;}
+.sdk:hover{background: url(../../img/flow_1_h.png)no-repeat scroll center center #B2DA52;}
+
+
+.features a{text-decoration: none;}    
+h3.f-heading{text-align: center;color: #fff; font-size: 24px;}
+p.f-desc{color: #1E3900; text-align: center; font-size: 13px;}
+p.f-desc span{font-weight: bold;}
+
+.signup-btn{text-align: center;padding: 30px 0;}
+.signup-btn a.signup{color: #fff;font-size: 22px; text-align: center; height: 30px; width: 150px; padding: 10px; line-height: 30px; border: 1px solid #00627E;text-shadow: 0 0;}
+
+.gray_bg {background: #cbcbcb;border-top: 1px solid #e1e1e1;border-bottom: 1px solid #b0b0b0;box-shadow: 0 1px 0 #ececec;font-size: 15px;font-weight: bold;}
+.gray_bg:hover {background: #bcbcbc;}
+.gray_bg a {display: block;padding: 15px 0px;width: 100%;height: 100%;color: #1e3900;font-weight: bold;text-decoration: none;}
+.gray_bg a span {text-decoration: underline;color: #0088cc;padding-right: 20px;background: url(../../img/a_arrow.png) no-repeat right 4px;margin-left: 5px;}
+.casestudy_header {color: #4D4D4D;font-size: 27px;margin-bottom: 0;padding-top: 15px;}
+
+.shadow_line {background: url(../../img/sep-shadow2.png) no-repeat scroll center bottom transparent;margin: 0 0 25px;overflow: hidden;padding: 0 0 20px;}
+
+.casestudy_header {color: #4D4D4D;font-size: 27px;margin-bottom: 0;padding-top: 15px;}
+.casestudy_summary {margin-bottom: 30px;}
+.casestudy_summary h4 {color: #4D4D4D;font-size: 20px;margin: 2px 0 0;}
+.casestudy_summary a.more {background: url(../../img/a_arrow_g.png) no-repeat scroll right 4px transparent;padding-right: 15px;color: #6EA000;}
+.casestudy_summary img {float: right;margin-right: 5px;}
+.casestudy_summary p {color: #707070;font-size: 14px;line-height: 24px;margin: 0;}
+
+
+.footer{background: url(../../img/footer_bg2.jpg) repeat scroll 0 0 transparent;padding-bottom: 30px;}
+
+.footer .contact .block {display: block;height: 35px;}
+.footer ul {list-style: none outside none;margin: 0;}
+.footer .contact h3, .footer .contact ul li {text-align: left;}
+.footer ul li img {margin-right: 5px;}
+.footer ul li a {color: #FFFFFF;font-size: 12px;}
+.footer ul li {text-align: right;}
+.footer h3 {color: #838383;font-size: 16px;margin-bottom: 0;text-align: right;}
+.footer .copyright {color: #838383;font-size: 13px;font-weight: bold;margin-top: 20px;}
+/* 
+.nav-collapse .h-nav li{display: inline; float: left;}
+ */

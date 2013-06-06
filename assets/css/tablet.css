@@ -1,0 +1,208 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.navbar .brand {
+    margin: 0 auto;
+}
+.navbar .nav {
+    float: none;
+    left: 0;
+}
+.navbar .nav li.header_contact {
+    padding: 9px 15px;
+}
+.navbar .nav li .top_menu {
+    padding: 9px 15px;
+}
+.navbar-fixed-top {
+    margin: 0;
+}
+.home_features h4 {
+    line-height: 24px;
+}
+.home_features .fake_col {
+    margin-left: 3.5%;
+}
+.home_features .hover {
+    margin-right: 25px;
+}
+.home_features .hover .new {
+    display: none;
+}
+.casestudy_header {
+    font-size: 24px;
+}
+.casestudy_summary .span4 {
+    text-align: center;
+}
+.casestudy_summary img {
+    float: none;
+    margin-right: 0;
+}
+.casestudy_summary .span8 {
+    margin-bottom: 10px;
+    margin-left: 5px;
+    text-align: left;
+}
+.footer .span4 {
+    margin-right: 5px;
+}
+.footer h3 {
+    text-align: left;
+}
+.footer ul li {
+    margin: 10px 0;
+    text-align: left;
+}
+.footer ul li img {
+    margin-right: 2px;
+}
+.footer ul li a {
+    font-size: 12px;
+}
+.affix {
+    position: static;
+}
+.overview {
+    margin-top: 10px;
+}
+.overview .summary .span3 {
+    text-align: center;
+}
+.overview .summary .span3 h5 {
+    text-align: center;
+}
+.overview .summary .span4 {
+    text-align: center;
+}
+.overview .summary .span4 h5 {
+    text-align: center;
+}
+.overview .summary .ivr h5 {
+    margin-left: 0;
+}
+.overview .testimonial {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.overview_docs .doc_block {
+    margin-bottom: 20px;
+    margin-left: 0;
+    width: 100%;
+}
+.overview_faq {
+    margin-top: 30px;
+}
+.overview_faq h3 {
+    font-size: 18px;
+}
+.overview_footer {
+    text-align: center;
+}
+.overview_footer .well {
+    width: 90%;
+}
+.about_container table.about {
+    display: none;
+}
+.about_container {
+    padding-right: 20px;
+}
+.about_container .sales_contact .twitter {
+    margin-left: 50px;
+}
+.tos_container {
+    padding: 0 20px;
+}
+.pricing_container h1 {
+    font-size: 36px;
+}
+.pricing_container h4 {
+    font-size: 20px;
+}
+.pricing_container .push_right {
+    margin-left: 0;
+}
+.pricing_container .adjust {
+    margin-left: 0;
+}
+.pricing_container .voice_calls {
+    margin-left: 0;
+}
+.pricing_container .conditions .pull-right {
+    position: static;
+}
+.pricing_container .collapse.in {
+    clear: both;
+}
+.docs_nav_holder .nav-tabs {
+    font-size: 20px;
+}
+.nav-tabs > li > a {
+    padding: 8px;
+}
+.docs_container {
+    margin-top: 20px;
+    position: static;
+}
+.docs_container .nav-container {
+    background-color: #EEEEEE;
+    border: 1px solid #CCCCCC;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    bottom: 4px;
+    opacity: 0.95;
+    position: relative;
+    top: 4px;
+    width: 20%;
+}
+.docs_container .doc {
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: -3.9%;
+    padding: 25px;
+    width: 80%;
+}
+.docs_container .nav-list li a {
+    font-size: 12px;
+    margin-left: 0;
+}
+.docs_container .nav-list li a.child {
+    font-size: 11px;
+    margin-left: 0;
+}
+.framework h1 {
+    font-size: 44px;
+}
+.framework p {
+    font-size: 20px;
+    line-height: 32px;
+    margin-top: 5px;
+    padding: 0 10px;
+}
+.framework_adjust {
+    margin-top: 10px;
+}
+.framework_speciality h1 {
+    font-size: 32px;
+}
+.framework_speciality p {
+    font-size: 18px;
+    padding: 0 20px;
+}
+ul.quick-links {
+    margin: 10px 0 20px;
+}
+.blog_posts_container {
+    margin-left: -10%;
+}
+.blog_posts_container .twitter {
+    width: 200px;
+}
+.blog_posts_container .post_metadata p.date {
+    font-size: 10px;
+    line-height: 16px;
+}
